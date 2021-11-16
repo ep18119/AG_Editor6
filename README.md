@@ -1,5 +1,7 @@
 # AG_Editor6
 
+index.htmlを開いて実行してください。
+
 ## 内容物
 
 * index.html：エディタを開き、情報を受け取るウィンドウ
